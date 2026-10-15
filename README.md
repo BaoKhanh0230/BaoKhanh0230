@@ -38,6 +38,6 @@ Currently participating in an industry collaboration project involving business-
 
 ## Currently Exploring
 
-- Deep Learning and NLP
+- Deep Learning, Computer Vision and NLP
 - LLM-based applications and Retrieval-Augmented Generation (RAG)
 - Software Engineering practices and reproducible workflows
